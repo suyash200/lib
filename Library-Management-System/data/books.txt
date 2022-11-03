@@ -1,0 +1,12 @@
+1	K���k Prens	Antoine de Saint-Exupery	Can �ocuk Yay�nlar�	112	20/2/2015	ChildBook	true
+2	Bin Dokuz Y�z Seksen D�rt	George Orwell	Can Yay�nlar�	648	8/6/1949	ScienceFictionBook	true
+3	Teoriden Uygulamalarla Algoritmalar	Vasif Nabiyev	Se�kin Yay�nc�l�k	871	5/8/2007	ComputerBook	true
+4	G��e Bakma Dura��	Turgut Uyar	Yap� Kredi Yay�nlar�	112	4/8/2008	PoemBook	true
+5	Yapay Zeka	At�n� Y�lmaz	Kodlab Yay�nevi	373	4/6/2017	ComputerBook	true
+6	�nsan Olmak	Engin Ge�tan	Metis Yay�nc�l�k	184	4/8/2016	PhyscologyBook	true
+7	Bilin�alt�	Sigmund Freud	Dorlion Yay�nevi	181	6/8/2018	PhyscologyBook	true
+8	K�rm�z� Ba�l�kl� K�z	Grimm Karde�ler	Arkada� Yay�nc�l�k	64	4/5/2015	ChildBook	true
+9	G�r�nmez Adam	H.G.Wells	�thaki Yay�nlar�	232	9/11/2013	ScienceFictionBook	true
+10	Sevda S�zleri	Cemal S�reyya	Yap� Kredi Yay�nlar�	336	4/6/2016	PoemBook	true
+11	Ben Robot	Isaac Asimov	�thaki Yay�nlar�	248	26/4/2016	ScienceFictionBook	true
+12	Lord of rings	tolkein	vit	123	12/3/32	ScienceFictionBook	true
